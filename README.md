@@ -1,2 +1,2 @@
 # EDA-Project
-An EDA project for my ITP 449 course
+This repository explores the sales trend of video games in various regions across the globe. 
